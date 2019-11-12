@@ -1,0 +1,15 @@
+a {
+    font-size: 30px;
+    border: 2px solid black;
+    padding: 10px;
+}
+h1 {
+    background-color: rgb(241, 125, 226);
+    width: 370px;
+}
+p {
+    float: left;
+}
+.from {
+    float: right;
+}
